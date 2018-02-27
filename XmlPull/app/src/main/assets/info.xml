@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<baklist xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <date>
+            2018年2月12日 9时13分25秒
+        </date>
+        <remark>
+            还有两天才放假
+        </remark>
+    </item>
+    <item>
+        <date>
+            2018年2月23日 8时30分0秒
+        </date>
+        <remark>
+            今天要上班但是我请假
+        </remark>
+    </item>
+</baklist>
