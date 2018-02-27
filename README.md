@@ -1,0 +1,2 @@
+# XmlReadWriteRxjavaRetrofitOkHttp
+Assets目录下Xml文件读取和写入，简单的网络请求使用okhttp3+retrofit2+rxjava2
